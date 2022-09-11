@@ -1,0 +1,12 @@
+{
+    "defaultCommandTimeout": 60000,
+    "pageLoadTimeout": 90000,
+    "chromeWebSecurity": false,
+    "waitForAnimations": true,
+    "requestTimeout": 60000,
+    "responseTimeout": 90000,
+    "numTestsKeptInMemory": 50,
+    "screenshotsFolder": "mochawesome-report/assets",
+    "viewportWidth": 1920,
+    "viewportHeight": 1080
+}
